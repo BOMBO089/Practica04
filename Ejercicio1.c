@@ -1,4 +1,4 @@
-//Alonso Gonzalez
+//Alonso Gonzalez 06/03/25
 //Ejercicio
 
 #include <stdio.h>
@@ -17,6 +17,6 @@ int main()
     
   }
 
-
+  return 0;
   
 }
