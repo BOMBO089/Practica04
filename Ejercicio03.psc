@@ -14,11 +14,27 @@ Algoritmo Ejercicio03
 	
 	res = 0
 	
-	Para i<-0 Hasta 10 Con Paso i+1 Hacer
+	Para i<-1 Hasta 10 Con Paso i+1 Hacer
 		res=res+i
 	Fin Para
 	
 	Mostrar "Solucion 2: " res
+	
+	res = 0
+	
+	Para i<-0 Hasta 10 Con Paso i+1 Hacer
+		res=res+i
+	Fin Para
+	
+	Mostrar "Solucion 3: " res
+	
+	res = 0
+	
+	Para i<-1 Hasta 10 Con Paso i+1 Hacer
+		res=res+i
+	Fin Para
+	
+	Mostrar "Solucion 4: " res
 	
 	res = 0
 	
